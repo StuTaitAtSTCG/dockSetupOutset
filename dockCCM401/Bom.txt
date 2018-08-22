@@ -1,0 +1,15 @@
+.	40755	0/0
+./payload	40755	0/0
+./payload/Library	40755	0/0
+./payload/Library/STCG	40755	0/0
+./payload/Library/STCG/Dock	40755	0/0
+./payload/Library/STCG/Dock/._staffDock.txt	100644	0/0	0	0
+./payload/Library/STCG/Dock/._studentDock.txt	100644	0/0	0	0
+./payload/Library/STCG/Dock/staffDock.txt	100644	0/0	650	2042169921
+./payload/Library/STCG/Dock/studentDock.txt	100644	0/0	650	2042169921
+./payload/usr	40755	0/0
+./payload/usr/local	40755	0/0
+./payload/usr/local/outset	40755	0/0
+./payload/usr/local/outset/login-once	40755	0/0
+./payload/usr/local/outset/login-once/._outsetSetupDock1.0.sh	100755	0/0	0	0
+./payload/usr/local/outset/login-once/outsetSetupDock1.0.sh	100755	0/0	1190	1132022664
